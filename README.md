@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1>Hi, I'm Hussein! <br/><a href="https://github.com/Hussein-Alomisi">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Flutter Developer</a>
 
-<!--
-**Hussein-Alomisi/Hussein-Alomisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Mobile Application (Flutter, SQLite, GetX )</b>
+  - [QR Invite 2024](https://www.mediafire.com/file/it2r61mv16stgw6/QR_Invite.apk/file)
+  - [Smart Attendance 2022](https://www.mediafire.com/file/7lo2fnoczq11v0u/Smart_Attendance.apk/file)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Laravel</b>
+  - [Hotel Systems Api](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2>📃Certificates</h2>
+  🎓 BA INFORMATION & COMMUNICATION TECHNOLOGY (ICT) 
+<h2>📺 Popular YouTube Videos</h2>
+
+- [Explaing of how to use the QR Invite app)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30&label=)](https://facebook.com/vdvd0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&label=)](https://linkedin.com/in/joshmadakor)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30&label=)](https://wa.me/967772344238)
+
+📞 **Phone:** [+967 772344238](tel:+967772344238)  
+💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/967772344238)
