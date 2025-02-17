@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Mobile Application (Flutter, SQLite, GetX )</b>
-  - [QR Invite 2024](https://www.mediafire.com/file/it2r61mv16stgw6/QR_Invite.apk/file)
+  - [QR Invite 2024](https://github.com/Hussein-Alomisi/QrInviteApp)
   - [Smart Attendance 2022](https://www.mediafire.com/file/7lo2fnoczq11v0u/Smart_Attendance.apk/file)  
 
 - <b>Laravel</b>
