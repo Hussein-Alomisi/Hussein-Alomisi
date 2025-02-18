@@ -18,7 +18,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30&label=)](https://facebook.com/vdvd0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&label=)](https://linkedin.com/in/joshmadakor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30&label=)](https://www.linkedin.com/in/hussein-alomisi-358aba351/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30&label=)](https://wa.me/967772344238)
 
 📞 **Phone:** [+967 772344238](tel:+967772344238)  
