@@ -6,13 +6,11 @@
   - [QR Invite 2024](https://github.com/Hussein-Alomisi/QrInviteApp)
   - [Smart Attendance 2022](https://www.mediafire.com/file/7lo2fnoczq11v0u/Smart_Attendance.apk/file)  
 
-- <b>Laravel</b>
-  - [Hotel Systems Api](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📃Certificates</h2>
   🎓 BA INFORMATION & COMMUNICATION TECHNOLOGY (ICT) 
-<h2>📺 Popular YouTube Videos</h2>
+<!-- <h2>📺 Popular YouTube Videos</h2> -->
 
-- [Explaing of how to use the QR Invite app)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+ <!-- - [Explaing of how to use the QR Invite app)](https://www.youtube.com/watch?v=N-L9hklSlNk)-->
 
 
 <h2> 🤳 Connect with me:</h2>
