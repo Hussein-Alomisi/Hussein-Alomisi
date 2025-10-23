@@ -4,7 +4,8 @@
 
 - <b>Mobile Application (Flutter, SQLite, GetX )</b>
   - [QR Invite 2024](https://github.com/Hussein-Alomisi/QrInviteApp)
-  - [Smart Attendance 2022](https://www.mediafire.com/file/7lo2fnoczq11v0u/Smart_Attendance.apk/file)  
+  - [Smart Attendance 2022](https://www.mediafire.com/file/7lo2fnoczq11v0u/Smart_Attendance.apk/file)
+  -  [Etqan Center](https://play.google.com/store/apps/details?id=com.etqan.purnameg&pcampaignid=web_share)  
 
 <h2>📃Certificates</h2>
   🎓 BA INFORMATION & COMMUNICATION TECHNOLOGY (ICT) 
